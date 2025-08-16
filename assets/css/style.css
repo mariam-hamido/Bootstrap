@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hero .container-fluid {
+    background-image: url('../images/Rectangle.png');
+    background-size: cover;
+    
+    
+    height: 100vh;
+    
+}
+.banner{
+    background-image: url('../images/banner.png');
+    background-size: cover;
+    background-position: center;
+}
